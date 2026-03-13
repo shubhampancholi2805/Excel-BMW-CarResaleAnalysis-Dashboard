@@ -24,11 +24,10 @@ The main objectives of this analysis were:
 ## Tools Used
 
 - Microsoft Excel
+- Power Query
 - Pivot Tables
 - Pivot Charts
-- Scatter Charts
 - Data Grouping
-- Excel Dashboard Design
 - Slicers for interactivity
 
 ---
