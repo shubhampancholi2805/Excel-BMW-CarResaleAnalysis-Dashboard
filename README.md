@@ -1,5 +1,4 @@
 # Excel-BMW-CarResaleAnalysis-Dashboard
-# BMW Used Car Resale Analysis Dashboard
 
 ## Project Overview
 This project analyzes the **resale market of BMW vehicles** to understand the key factors affecting used car prices.  
