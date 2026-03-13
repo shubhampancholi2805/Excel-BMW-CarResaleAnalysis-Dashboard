@@ -106,11 +106,8 @@ Multiple worksheets were used for exploratory analysis before constructing the f
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
 
-Example:
-
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/shubhampancholi2805/Excel-BMW-CarResaleAnalysis-Dashboard/blob/main/Dashboard.png)
 
 ---
 
